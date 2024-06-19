@@ -1,0 +1,149 @@
+[
+  {
+    "id": "49ff90b4-7b12-4fc3-adcc-aa2708dd519d",
+    "data": [
+      {
+        "text": "What are the store\u0027s opening and closing times?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62ffbc9b-9af9-405d-98ea-4691694ff86d",
+    "data": [
+      {
+        "text": "What time do you close in the evening?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdae1b97-3cb7-4822-9d27-e4fcf7128af7",
+    "data": [
+      {
+        "text": "Store hours for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42ffe586-ddf7-4185-a772-b6c9c9e27229",
+    "data": [
+      {
+        "text": "Can you tell me your store hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b393af4-0381-4b2a-a54d-867a9508f305",
+    "data": [
+      {
+        "text": "Store opening time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea19d774-7cba-49b9-8710-c36903b2b471",
+    "data": [
+      {
+        "text": "Are you open now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aa19cbe-5218-44c7-b93e-3bed7d2b7a8c",
+    "data": [
+      {
+        "text": "When do you close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4445dbc-b986-443f-823f-051ca0bbcc0b",
+    "data": [
+      {
+        "text": "What are your store hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fe7572a-5321-4742-b13a-f2fd2411cef7",
+    "data": [
+      {
+        "text": "Until when are you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f95a5858-9c95-4a83-a8d6-980a54ee6986",
+    "data": [
+      {
+        "text": "When do you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c4c5a98-0ffc-479a-a494-deb7fad46688",
+    "data": [
+      {
+        "text": "What are the opening hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

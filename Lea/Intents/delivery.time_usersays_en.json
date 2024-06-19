@@ -1,0 +1,54 @@
+[
+  {
+    "id": "f9a0b113-c68d-45cb-bb3e-0f168f5d393b",
+    "data": [
+      {
+        "text": "What\u0027s the ETA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "242a8c56-6d27-4490-985f-8dac2c3a5777",
+    "data": [
+      {
+        "text": "When can I get the order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbb3a303-e785-47bd-a67b-e60ba5c925da",
+    "data": [
+      {
+        "text": "How long does it take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c9c5653-3dd3-45ba-b78e-b78532c6ab08",
+    "data": [
+      {
+        "text": "How long is the delivery time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

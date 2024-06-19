@@ -1,0 +1,77 @@
+[
+  {
+    "id": "4156303f-b92f-41d0-877d-923d930f70d5",
+    "data": [
+      {
+        "text": "What else is on the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ad91503-6e7a-4ed6-b8b6-b34fd7093c6a",
+    "data": [
+      {
+        "text": "what is on the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03400f22-a0f5-476f-9fed-d2e46f31c126",
+    "data": [
+      {
+        "text": "Can I see the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3709a2cd-015b-4b9b-a63e-7a831bf1ac32",
+    "data": [
+      {
+        "text": "What else do you ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f71d3e7-fce8-4b2f-b7eb-e27846576fa9",
+    "data": [
+      {
+        "text": "What is the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

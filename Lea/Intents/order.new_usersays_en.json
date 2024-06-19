@@ -1,0 +1,106 @@
+[
+  {
+    "id": "b352ea7e-7ec6-41e2-b4a2-d58a8714e846",
+    "data": [
+      {
+        "text": "Put in a new order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02149ec9-df94-4963-be67-9072bd2f9903",
+    "data": [
+      {
+        "text": "Place an additional order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e8b004c-471c-45bc-8105-0b62fb22b01e",
+    "data": [
+      {
+        "text": "I want to order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af19cddd-9301-4d8a-b53e-a985cad0780e",
+    "data": [
+      {
+        "text": "order food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "617ef18f-a586-4090-a653-4d7011d6cd7b",
+    "data": [
+      {
+        "text": "create a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6436ce84-8f5c-4f7a-a57f-90c337708cfb",
+    "data": [
+      {
+        "text": "I want to place an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d104da43-f416-4c5d-8ed7-1f56ece0e001",
+    "data": [
+      {
+        "text": "Place new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9313a5ec-5e42-4fa9-9c4f-6262a155f925",
+    "data": [
+      {
+        "text": "New order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

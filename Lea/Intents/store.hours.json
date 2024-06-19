@@ -1,0 +1,49 @@
+{
+  "id": "45336923-4c74-484b-a572-cf4c6e6e95e3",
+  "name": "store.hours",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Store_hours",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We are open from Monday to Friday from 10am -10pm and Saturday \u0026 Sunday from 9am-11pm.",
+            "Our Store timings are :  Monday to Friday from 10am -10pm and Saturday \u0026 Sunday from 9am-11pm.",
+            "Our store is open Monday to Friday from 10 AM to 10 PM, and on Saturday and Sunday from 9 AM to 11 PM.",
+            "Store hours: Monday to Friday, 10 AM - 10 PM; Saturday and Sunday, 9 AM - 11 PM.",
+            "We operate from 10 AM to 10 PM on weekdays, and from 9 AM to 11 PM on weekends.",
+            "You can visit us Monday through Friday from 10 AM to 10 PM, and on weekends from 9 AM to 11 PM",
+            "Our operating hours are Monday to Friday, 10 AM to 10 PM, and Saturday \u0026 Sunday, 9 AM to 11 PM",
+            "The store is open Monday to Friday, 10 AM to 10 PM, and on weekends from 9 AM to 11 PM.",
+            "Business hours: Weekdays 10 AM - 10 PM, Weekends 9 AM - 11 PM.",
+            "We are available Monday to Friday from 10 AM to 10 PM, and Saturday \u0026 Sunday from 9 AM to 11 PM."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

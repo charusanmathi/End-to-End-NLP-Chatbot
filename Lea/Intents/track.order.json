@@ -1,0 +1,45 @@
+{
+  "id": "40a4166d-e6a5-48ce-974c-d00e7bf493c9",
+  "name": "track.order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Definitely. What is your order id?",
+            "Sure. Please enter your order id.",
+            "Sure thing! Could you provide your order ID?",
+            "Absolutely! Would you mind sharing your order ID?",
+            "Certainly! I\u0027ll just need your order ID to proceed.",
+            "Certainly! Could you kindly provide your order ID for me?",
+            "Absolutely! To assist you further, may I have your order ID?",
+            "Of course! I\u0027ll be happy to help. Could you give me your order ID?",
+            "Absolutely! Your order ID would help me locate your order quickly.",
+            "Certainly! I\u0027ll need your order ID to look into your request.",
+            "Sure thing! Your order ID will help me find the necessary information"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

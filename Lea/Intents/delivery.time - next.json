@@ -1,0 +1,37 @@
+{
+  "id": "0760b0e3-886d-42f0-9df7-97f44a4647b1",
+  "parentId": "328092d4-ba4c-40f2-8aa8-c827996faa8f",
+  "rootParentId": "328092d4-ba4c-40f2-8aa8-c827996faa8f",
+  "name": "delivery.time - next",
+  "auto": true,
+  "contexts": [
+    "ongoing-order",
+    "deliverytime-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "deliverytime.deliverytime-next",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

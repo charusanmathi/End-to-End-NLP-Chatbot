@@ -1,0 +1,60 @@
+{
+  "id": "bfc73a9f-7385-4718-aa19-1397159b04c8",
+  "name": "menu",
+  "auto": true,
+  "contexts": [
+    "ongoing-order"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing-order",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "77a899a9-0935-4b1c-9df4-7000fb33fd4a",
+          "name": "food-item",
+          "required": false,
+          "dataType": "@food-item",
+          "value": "$food-item",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our menu features a variety of delightful dishes, including Chole Bhature, Vada Pav, Mango Lassi, Samosa, Dosa, Pizza, Rava Dosa, Pav Bhaji, and Biryani.",
+            "Explore our menu and indulge in delicious offerings like Chole Bhature, Vada Pav, Mango Lassi, Samosa, Dosa, Pizza, Rava Dosa, Pav Bhaji, and Biryani.",
+            "Treat yourself to a culinary adventure with our diverse menu, featuring Chole Bhature, Vada Pav, Mango Lassi, Samosa, Dosa, Pizza, Rava Dosa, Pav Bhaji, and Biryani.",
+            "Dive into a world of flavors with our menu, boasting tantalizing options like Chole Bhature, Vada Pav, Mango Lassi, Samosa, Dosa, Pizza, Rava Dosa, Pav Bhaji, and Biryani."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "f4496580-54d7-4a26-940c-e917b6159078",
+    "data": [
+      {
+        "text": "Monitor the delivery of my order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1024d5d4-7705-4999-9b66-49b0141535eb",
+    "data": [
+      {
+        "text": "Stay updated on my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "356cc82f-6c56-44b4-ad08-bc65b9669440",
+    "data": [
+      {
+        "text": "Track the shipment of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d42c5560-ae2a-4bcf-9020-ea381c88ca28",
+    "data": [
+      {
+        "text": "See where my order is.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cab19133-b15e-4e00-b85e-2bcba649a707",
+    "data": [
+      {
+        "text": "Follow up on my order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01101479-5097-47e2-9b4a-6110ab850f5c",
+    "data": [
+      {
+        "text": "View my order progress.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43056e7f-ef52-4209-8ba7-2abc8335619d",
+    "data": [
+      {
+        "text": "track existing order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcfda4f8-f400-4141-b8f1-d7df6c133d05",
+    "data": [
+      {
+        "text": "track order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7bdd840-d0b6-48ae-a65a-044e08df53c2",
+    "data": [
+      {
+        "text": "check the status of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
