@@ -1,0 +1,158 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I am Lea, your Pandeyeji eatery agent for food order or tracking"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "I am sorry, I don\u0027t understand. I only accept orders or track orders."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "I apologise. I only accept or track orders. Please use phrase \"new order\" to start a new order or \"track order\" for tracking your order"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "I am happy to answer questions about your orders."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Thanks for your recommendations and your feedback is welcome."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thanks! The feeling is mutual."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "I am a chatbot."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "Sorry, Can I get you your favourite food to cheer you up."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "Yes, Please type \"new order\" or \"track order\""
+    ]
+  },
+  {
+    "action": "smalltalk.agent.there",
+    "customAnswers": [
+      "Sorry for delay, yes please let me know if you would like to place a new order or track order."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.bad",
+    "customAnswers": [
+      "I apologise for the inconvenience."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.good",
+    "customAnswers": [
+      "I am so glad."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "Thank you so much for trusting our eatery!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.welcome",
+    "customAnswers": [
+      "Have a great day!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.well_done",
+    "customAnswers": [
+      "Thanks for your compliment!"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.wow",
+    "customAnswers": [
+      "Glad you like our menu!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "Good evening! How are you? Would you like to place order or track order?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Good morning! Hope you day is great? Would you like to place order or track order?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "Good night!"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.no",
+    "customAnswers": [
+      "Is that all?"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hold_on",
+    "customAnswers": [
+      "Sure. I can wait. I Please say \"New Order\", \"Track order\" or \"Store Hours\" once you are ready"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hug",
+    "customAnswers": [
+      "Sending hugs!! Would you like to order something to cheer yourself up!"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.i_do_not_care",
+    "customAnswers": [
+      "I don\u0027t understand. No problem. How can I help? Please say \"New Order\", \"Track order\" or \"Store Hours\""
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.sorry",
+    "customAnswers": [
+      "No problem. How can I help? Please say \"New Order\", \"Track order\" or \"Store Hours\""
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.what_do_you_mean",
+    "customAnswers": [
+      "I don\u0027t understand. No problem. How can I help? Please say \"New Order\", \"Track order\" or \"Store Hours\""
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.wrong",
+    "customAnswers": [
+      "I don\u0027t understand. No problem. How can I help? Please say \"New Order\", \"Track order\" or \"Store Hours\""
+    ]
+  }
+]
